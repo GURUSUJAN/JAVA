@@ -12,7 +12,7 @@ public class AverageMarks {
         }
         return averages;
     }
-    public static void main(String... vamsi) {
+    public static void main(String[] args) {
         double[][] marks = {
             {10.5, 2.5, 15},
             {5.25, 6.75, 11.25}
